@@ -1,0 +1,10 @@
+{
+  "realm": "admin-panel-realm",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "gateway",
+  "credentials": {
+    "secret": "vD5y8ONkDnt54YzHPdJEm0FYZAAMHgMl"
+  },
+  "confidential-port": 0
+}
